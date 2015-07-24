@@ -1,2 +1,2 @@
 # hello-world
-git hub tutorial
+Code will say hello to the world.
